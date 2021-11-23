@@ -8,7 +8,7 @@ Convert-CapsAndCtrl
 $PackagesToInstall = @("Microsoft.PowerShell", "Microsoft.WindowsTerminal",
 "JetBrains.Toolbox", "Bandisoft.Bandizip", "Discord.Discord", "Microsoft.VisualStudio.2022.BuildTools", 
 "Microsoft.VisualStudioCode", "9N8GPB2TK8GB", "9WZDNCRFHVFW", "Python.Python.3", "Anaconda.Anaconda3",
-"Git.Git", "GitHub.cli", "Microsoft.dotnet", "Kakao.KakaoTalk", "Notion.Notion", "Axosoft.GitKraken")
+"Git.Git", "GitHub.cli", "Microsoft.dotnet", "Kakao.KakaoTalk", "Notion.Notion", "Axosoft.GitKraken", "OpenJS.NodeJS.LTS")
 Install-ThroughWinget($PackagesToInstall)
 
 # git setting
